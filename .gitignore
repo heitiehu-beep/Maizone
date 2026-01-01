@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Config & Data Files
+config.toml
+processed_list.json
+processed_comments.json
+cookies-*.json
+images/*
